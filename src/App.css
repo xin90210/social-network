@@ -3,9 +3,9 @@
   width: 1200px;
   margin: 0 auto;
 
-  grid-template-areas: 
-  "h h"
-  "n c";
+  grid-template-areas:
+    "h h"
+    "n c";
 
   grid-template-rows: 60px 1fr;
   grid-template-columns: 2fr 10fr;
@@ -17,11 +17,11 @@
   background-color: green;
 }
 
-.header img {
-  width: 100px;
+.bg-photo img {
+  width: 800px;
 }
 
-.ava {
+.ava img {
   width: 100px;
 }
 
